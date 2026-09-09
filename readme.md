@@ -1,8 +1,14 @@
-<h1 align="center">Olá 👋, eu sou o João Vitor Oliveira Silva</h1>
-<h3 align="center">Desenvolvedor Software & Soluções em IA | Foco em Python, Automação e Web</h3>
+<h1 align="center">Olá 👋, eu sou João Vitor</h1>
+
+<h3 align="center">
+  Desenvolvedor de Software | IA & Automação | Desenvolvimento Web
+</h3>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, resolução de problemas e criação de aplicações eficientes. Tenho experiência com desenvolvimento em Python, automação de processos, integração de Inteligência Artificial para prototipagem ágil e desenvolvimento web.
+  Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas,
+  interessado em transformar problemas reais em soluções digitais.
+  Meu foco está em desenvolvimento web, Inteligência Artificial,
+  automação de processos e criação de sistemas.
 </p>
 
 ---
@@ -10,78 +16,185 @@
 <h3 align="left">🚀 Sobre Mim</h3>
 
 <ul>
-  <li><b>💻 Atuação Profissional:</b> Desenvolvimento de sistemas e jogos em Python (Pygame com POO), prototipagem de soluções web (HTML, CSS, JS) e engenharia de prompts para fluxos de trabalho inteligentes.</li>
-  <li><b>🎮 Projetos em Destaque:</b> Desenvolvimento de jogo 2D estilo Atari em Python utilizando Programação Orientada a Objetos, game loop a 60 FPS, gerenciamento de estados, tratamento de eventos e colisões por grupos de sprites.</li>
-  <li><b>⚙️ Soluções Operacionais:</b> Habilidade em diagnosticar e resolver problemas de ambiente, versionamento de código, estruturação de repositórios e otimização de rotinas digitais.</li>
-  <li><b>🌱 Atualmente Focado em:</b> Aprofundar conceitos de arquitetura de software, automação com IA e criação de projetos de alto valor para portfólio.</li>
+  <li>
+    💻 <b>Desenvolvimento:</b> Criação de aplicações e interfaces web
+    utilizando HTML, CSS, JavaScript e outras tecnologias do ecossistema.
+  </li>
+
+  <li>
+    🤖 <b>Inteligência Artificial:</b> Desenvolvimento e prototipagem
+    de soluções utilizando IA, agentes inteligentes e integração de
+    sistemas.
+  </li>
+
+  <li>
+    ⚙️ <b>Automação:</b> Criação de fluxos automatizados para reduzir
+    tarefas repetitivas e melhorar processos empresariais.
+  </li>
+
+  <li>
+    🌐 <b>Web:</b> Desenvolvimento de sites, landing pages,
+    dashboards e sistemas personalizados.
+  </li>
+
+  <li>
+    🧠 <b>Produto:</b> Tenho interesse em transformar ideias em
+    produtos digitais funcionais, desde a concepção até a implementação.
+  </li>
+
+  <li>
+    🎓 <b>Formação:</b> Estudante de Análise e Desenvolvimento
+    de Sistemas.
+  </li>
 </ul>
 
 ---
 
-<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
+<h3 align="left">🧩 O que estou construindo</h3>
+
+<p>
+  Atualmente estou explorando a criação de soluções que combinam
+  <b>software, Inteligência Artificial e automação</b>.
+</p>
+
+<ul>
+  <li>🤖 Agentes de IA para empresas</li>
+  <li>⚙️ Sistemas de automação de processos</li>
+  <li>📊 Dashboards e sistemas de gerenciamento</li>
+  <li>🌐 Sites e plataformas web</li>
+  <li>🧠 Integração entre diferentes sistemas e serviços</li>
+</ul>
+
+---
+
+<h3 align="left">🚀 Projetos</h3>
+
+<ul>
+  <li>
+    <b>🧠 Cortex Labs</b><br>
+    Projeto voltado à criação de soluções utilizando Inteligência
+    Artificial, automação, desenvolvimento web, dashboards e sistemas
+    personalizados para empresas.
+  </li>
+
+  <br>
+
+  <li>
+    <b>📊 Sistemas de gerenciamento</b><br>
+    Desenvolvimento de plataformas para organização e gerenciamento
+    de processos, produtos e informações.
+  </li>
+
+  <br>
+
+  <li>
+    <b>🌐 Projetos Web</b><br>
+    Criação de sites, landing pages e interfaces responsivas,
+    explorando UI/UX e diferentes tecnologias do desenvolvimento web.
+  </li>
+</ul>
+
+---
+
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+
 <p align="left">
+
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python" width="40" height="40"/>
   </a>
+
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="JavaScript" width="40" height="40"/>
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="CSS3" width="40" height="40"/>
   </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+
   <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    alt="PHP" width="40" height="40"/>
   </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+  <!-- Node -->
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="Node.js" width="40" height="40"/>
   </a>
+
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git" width="40" height="40"/>
   </a>
+
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+    alt="VS Code" width="40" height="40"/>
   </a>
+
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="Figma" width="40" height="40"/>
   </a>
-  <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
 
-<h3 align="left">Mande uma mensagem:</h3>
+<h3 align="left">🎯 Atualmente estudando</h3>
+
+<ul>
+  <li>Inteligência Artificial aplicada a negócios</li>
+  <li>Agentes de IA</li>
+  <li>Automação de processos</li>
+  <li>Arquitetura de software</li>
+  <li>Desenvolvimento Full Stack</li>
+  <li>UI/UX e criação de produtos digitais</li>
+</ul>
+
+---
+
+<h3 align="left">📫 Entre em contato</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/jo%c3%a3o-vitor-oliveira-28b4872b9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+  <a href="https://www.linkedin.com/in/jo%c3%a3o-vitor-oliveira-28b4872b9/" target="_blank">
+    <img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn"
+    height="30"
+    width="40"/>
   </a>
-  <a href="https://instagram.com/joaooliveiras__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+
+  <a href="https://instagram.com/joaooliveiras__" target="_blank">
+    <img align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="Instagram"
+    height="30"
+    width="40"/>
   </a>
+
 </p>
