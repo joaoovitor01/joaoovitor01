@@ -130,18 +130,6 @@
     alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="PHP" width="40" height="40"/>
-  </a>
-
-  <!-- Node -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="Node.js" width="40" height="40"/>
-  </a>
-
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
