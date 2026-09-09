@@ -44,7 +44,7 @@
 
   <li>
     🎓 <b>Formação:</b> Estudante de Análise e Desenvolvimento
-    de Sistemas.
+    de Sistemas na Unifran (ADS)
   </li>
 </ul>
 
@@ -158,7 +158,6 @@
   <li>Inteligência Artificial aplicada a negócios</li>
   <li>Agentes de IA</li>
   <li>Automação de processos</li>
-  <li>Arquitetura de software</li>
   <li>Desenvolvimento Full Stack</li>
   <li>UI/UX e criação de produtos digitais</li>
 </ul>
