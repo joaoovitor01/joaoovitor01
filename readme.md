@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou João Vitor</h1>
 
 <h3 align="center">
-  Desenvolvedor de Software | IA & Automação | Desenvolvimento Web
+ Dev Front-End 🚀 | Transformando ideias em código através de lógica, IA e UX/UI.
 </h3>
 
 <p align="center">
