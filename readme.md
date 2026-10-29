@@ -130,6 +130,16 @@
     alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
+<!-- MySql -->
+  <a href="https://www.mysql.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+<!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  </a>
+
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
