@@ -94,6 +94,7 @@
   </li>
 </ul>
 
+
 ---
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
@@ -130,16 +131,14 @@
     alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="PHP" width="40" height="40"/>
+<!-- MySql -->
+  <a href="https://www.mysql.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
-  <!-- Node -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="Node.js" width="40" height="40"/>
+<!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   </a>
 
   <!-- Git -->
