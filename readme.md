@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou João Vitor</h1>
 
 <h3 align="center">
- Dev Front-End 🚀 | Transformando ideias em código através de lógica, IA e UX/UI.
+  Desenvolvedor de Software | IA & Automação | Desenvolvimento Web
 </h3>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
   <li>
     🎓 <b>Formação:</b> Estudante de Análise e Desenvolvimento
-    de Sistemas na Unifran (ADS)
+    de Sistemas.
   </li>
 </ul>
 
@@ -93,6 +93,7 @@
     explorando UI/UX e diferentes tecnologias do desenvolvimento web.
   </li>
 </ul>
+
 ---
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
@@ -101,51 +102,80 @@
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="JavaScript" width="40" height="40"/>
   </a>
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="HTML5" width="40" height="40"/>
   </a>
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="CSS3" width="40" height="40"/>
   </a>
 
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    alt="PHP" width="40" height="40"/>
   </a>
 
-  <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <!-- Node -->
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="Node.js" width="40" height="40"/>
   </a>
 
-  <!-- ChatGPT -->
-  <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="35"/>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git" width="40" height="40"/>
   </a>
 
-  <!-- Google Gemini -->
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="35"/>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+    alt="VS Code" width="40" height="40"/>
   </a>
 
-  <!-- Claude AI -->
-  <a href="
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="Figma" width="40" height="40"/>
+  </a>
+
+</p>
+
+---
+
+<h3 align="left">🎯 Atualmente estudando</h3>
+
+<ul>
+  <li>Inteligência Artificial aplicada a negócios</li>
+  <li>Agentes de IA</li>
+  <li>Automação de processos</li>
+  <li>Arquitetura de software</li>
+  <li>Desenvolvimento Full Stack</li>
+  <li>UI/UX e criação de produtos digitais</li>
+</ul>
+
+---
 
 <h3 align="left">📫 Entre em contato</h3>
 
