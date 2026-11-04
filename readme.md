@@ -93,7 +93,6 @@
     explorando UI/UX e diferentes tecnologias do desenvolvimento web.
   </li>
 </ul>
-
 ---
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
@@ -102,85 +101,51 @@
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-    alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
   <!-- Supabase -->
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" 
-    alt="Supabase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   </a>
 
   <!-- ChatGPT -->
   <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-6.svg" 
-    alt="ChatGPT" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="35"/>
   </a>
 
   <!-- Google Gemini -->
   <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" 
-    alt="Google Gemini" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" height="35"/>
   </a>
 
   <!-- Claude AI -->
-  <a href="https://claude.ai/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" 
-    alt="Claude AI" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="Git" width="40" height="40"/>
-  </a>
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-    alt="VS Code" width="40" height="40"/>
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="Figma" width="40" height="40"/>
-  </a>
-
-</p>
-
----
+  <a href="
 
 <h3 align="left">📫 Entre em contato</h3>
 
