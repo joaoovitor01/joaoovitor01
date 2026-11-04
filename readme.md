@@ -130,14 +130,34 @@
     alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
-<!-- MySql -->
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+    alt="MySQL" width="40" height="40"/>
   </a>
 
-<!-- Supabase -->
+  <!-- Supabase -->
   <a href="https://supabase.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" 
+    alt="Supabase" width="40" height="40"/>
+  </a>
+
+  <!-- ChatGPT -->
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-6.svg" 
+    alt="ChatGPT" width="40" height="40"/>
+  </a>
+
+  <!-- Google Gemini -->
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" 
+    alt="Google Gemini" width="40" height="40"/>
+  </a>
+
+  <!-- Claude AI -->
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" 
+    alt="Claude AI" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -159,18 +179,6 @@
   </a>
 
 </p>
-
----
-
-<h3 align="left">🎯 Atualmente estudando</h3>
-
-<ul>
-  <li>Inteligência Artificial aplicada a negócios</li>
-  <li>Agentes de IA</li>
-  <li>Automação de processos</li>
-  <li>Desenvolvimento Full Stack</li>
-  <li>UI/UX e criação de produtos digitais</li>
-</ul>
 
 ---
 
